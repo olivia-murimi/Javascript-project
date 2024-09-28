@@ -16,3 +16,6 @@
     cursor: pointer;
     transition: background-color 0.25s;
 }
+.buttons:hover{
+    background-color:rgb(47, 47, 191);
+}
