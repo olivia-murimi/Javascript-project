@@ -8,3 +8,7 @@ increaseBtn.onclick = function(){
     count++;
     countLabel.textContent = count;
 }
+decreaseBtn.onclick =function(){
+    count--;
+    countLabel.textContent = count;
+}
